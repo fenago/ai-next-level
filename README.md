@@ -41,6 +41,3 @@ if len(physical_devices)>0:
     tf.config.experimental.set_memory_growth(physical_devices[0], True) 
 ```
 
-If you're interested in learning about NLP from a classic ML perspective, visit [this suite of lessons](https://github.com/microsoft/ML-For-Beginners/tree/main/6-NLP)
-
-

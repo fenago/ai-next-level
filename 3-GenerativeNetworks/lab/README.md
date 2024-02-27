@@ -1,6 +1,5 @@
 # Word-level Text Generation using RNNs
 
-Lab Assignment from [AI for Beginners Curriculum](https://github.com/microsoft/ai-for-beginners).
 
 ## Task
 
